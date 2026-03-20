@@ -1,2 +1,3 @@
-# rapid-microservice-mg8b
-A microservice architecture for modern development workflows
+# Rapid Microservice Mg8B
+
+A microservice architecture for modern development workflows.
